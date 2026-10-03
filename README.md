@@ -1,24 +1,31 @@
-# **Alura Plus**
+# Alura Plus
 
-## **Para acessar o site, [*clique aqui*](https://thedevnicolas.github.io/projeto-alura-plus/)**
+> **Learning project — course/tutorial exercise.** Kept public as part of my front-end learning history; not professional client work.
 
-### Execução
-Projeto desenvolvido durante a formação HTML+CSS na Alura, consiste em uma página da Alura Plus. 
+A learning project built during Alura's HTML & CSS coursework to recreate an Alura Plus landing page.
 
-### **Habilidades praticadas** 
-- Estrutura HTML básica;
-- Estilização com CSS, utilizando *FlexBox, Grid, Pseudo-classes hover e active.*
+This is a course exercise using the supplied brand and visual assets. It is not an official Alura product or a commercial website.
 
-### **O que aprendi?**
-- Reutilizar estilos através das classes dentro da nova section;
-- Atribuir mais de uma classe nos elementos para incluir novas estilizações além das existentes.
+## Skills practiced
 
-## **Previews**:
+- HTML page structure
+- CSS layouts with Flexbox and Grid
+- Hover and active pseudo-classes
+- Reusing CSS classes across sections
+- Combining classes to extend existing styles
 
-### **Monitor**
-#### **Clique no Play para reproduzir o vídeo**
+## View the project
 
-![AnimaçãoWeb](https://user-images.githubusercontent.com/110689312/192538969-5b9b348b-0d86-4090-b164-103de85ca03a.gif)
+[GitHub Pages demo](https://nicolasoliveiraops.github.io/projeto-alura-plus/)
 
+## Run locally
 
+Clone or download this repository and open `index.html` in a browser. No build step is required.
 
+## Previews
+
+These screenshots show the original learning project.
+
+### Desktop animated preview
+
+![Desktop animated preview](https://user-images.githubusercontent.com/110689312/192538969-5b9b348b-0d86-4090-b164-103de85ca03a.gif)
