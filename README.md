@@ -1,6 +1,6 @@
 # Alura Plus
 
-> **Learning project — course/tutorial exercise.** Kept public as part of my front-end learning history; not professional client work.
+This project is from my earlier HTML and CSS studies with Alura. It's a course exercise, kept here as part of my learning history.
 
 A learning project built during Alura's HTML & CSS coursework to recreate an Alura Plus landing page.
 
